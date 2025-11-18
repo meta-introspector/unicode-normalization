@@ -27,7 +27,7 @@ Decomposition and Recomposition, as described in
 Unicode Standard Annex #15.
 """
 
-rust-version = "1.36"
+# rust-version = "1.36"
 
 edition = "2018"
 

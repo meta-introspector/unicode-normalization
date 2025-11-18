@@ -30,4 +30,4 @@ test = false
 doc = false
 
 # Work around https://github.com/rust-lang/cargo/issues/8338
-[workspace]
+#[workspace]
